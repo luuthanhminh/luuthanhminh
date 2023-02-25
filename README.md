@@ -18,7 +18,7 @@ I currently perform the exact duties for some of my current and past clients her
 - 🔧 Ansible, Terraform, Jenkins
 - 📈 Elastic Stack, Grafana, Prometheus
 - 🌐 NGINX, Apache, HAProxy, Varnish
-- 🕸️ Node.js, React, Vue.js
+- 🕸️ Node.js, Nest.js, Typescript
 
 🚀 Here are some ways I can add value as a DevOps Engineer:
 
