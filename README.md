@@ -49,7 +49,6 @@ I currently perform the exact duties for some of my current and past clients her
   [![ansible](https://img.shields.io/badge/-ansible-000000?logo=ansible)](https://www.ansible.com/)
   [![kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?logo=kubernetes)](https://kubernetes.io/)
   [![jenkins](https://img.shields.io/badge/-jenkins-D24939?logo=jenkins)](https://www.jenkins.io/)
-
 ---
 
 <div>
