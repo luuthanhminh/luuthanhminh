@@ -37,6 +37,7 @@ I currently perform the exact duties for some of my current and past clients her
 - 🤖 Ansible Semaphore server to host and run Ansible playbooks deployment
 - 💾 Backup/Restore and disaster recovery solution on Kubernetes cluster with Kasten K10
 - 📦 End-to-end CI/CD with Github action, Vcluster, AWS ECR/EKS, ArgoCD
+- 🏭 AWS-based event-driven autoscaling solution, leveraging K8S' HPA and EKS, to scale Selenium browser nodes based on the number of requests in the session queue
 
 📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [myup.work/minhlt](myup.work/minhlt)
 - 💬 You can also ask me about:
