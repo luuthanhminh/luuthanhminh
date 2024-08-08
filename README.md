@@ -1,8 +1,7 @@
 # Hi 👋, I'm @minh
 
-☁️ Cloud Architect
 
-I currently perform the exact duties for some of my current and past clients here at Upwork using Terraform, Ansible over AWS/GCP/Azure or Kubernetes-based infrastructure.
+I'm a DevSecOps Engineer with hands-on experience delivering similar services for clients on Upwork. I specialize in using Terraform and Ansible to manage infrastructure on AWS, GCP, Azure, and Kubernetes-based environments.
 
 🎖 I hold several certifications that demonstrate my proficiency in DevOps, cloud computing, and Kubernetes. Check out my credentials:
 
@@ -15,9 +14,9 @@ I currently perform the exact duties for some of my current and past clients her
 
 - AWS, Google Cloud, Digital Ocean
 - Docker, container orchestration with Kubernetes
-- Ansible, Terraform, Github Action, Gitlab Runner
+- Ansible, Terraform, Github Action, Gitlab Runner, ArgoCD
 - Elastic Stack, Grafana, Prometheus, Loki, Datadog, Vector
-- NGINX, Apache, HAProxy, Varnish
+- NGINX, Apache, HAProxy, Caddy, Traefik
 - Node.js, Nest.js, Typescript
 
 🚀 Solutions:
