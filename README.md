@@ -1,8 +1,8 @@
 # Hi 👋, I'm @minh
 
-☢️ DevOps Engineer | ☁️ Cloud Architect
+☁️ Cloud Architect
 
-I currently perform the exact duties for some of my current and past clients here at Upwork using Jenkins, Terraform, Ansible over AWS/GCP or Kubernetes-based infrastructure.
+I currently perform the exact duties for some of my current and past clients here at Upwork using Terraform, Ansible over AWS/GCP/Azure or Kubernetes-based infrastructure.
 
 🎖 I hold several certifications that demonstrate my proficiency in DevOps, cloud computing, and Kubernetes. Check out my credentials:
 
@@ -13,33 +13,23 @@ I currently perform the exact duties for some of my current and past clients her
 
 🧰 Throughout my career, I've become familiar and proficient with most modern DevOps tools, including:
 
-- ☁️ AWS, Google Cloud, Digital Ocean
-- 🐳 Docker, container orchestration with Kubernetes
-- 🔧 Ansible, Terraform, Github Action, Gitlab Runner
-- 📈 Elastic Stack, Grafana, Prometheus, Loki, Datadog, Vector
-- 🌐 NGINX, Apache, HAProxy, Varnish
-- 🕸️ Node.js, Nest.js, Typescript
+- AWS, Google Cloud, Digital Ocean
+- Docker, container orchestration with Kubernetes
+- Ansible, Terraform, Github Action, Gitlab Runner
+- Elastic Stack, Grafana, Prometheus, Loki, Datadog, Vector
+- NGINX, Apache, HAProxy, Varnish
+- Node.js, Nest.js, Typescript
 
 🚀 Solutions:
-- 🌐 Hybrid mesh network design using [Tailscale](https://tailscale.com/) or [Nebula](https://www.defined.net/)
-- 🚀 Centralized a modern monitoring stack for multiple Kubernetes clusters using Prometheus, Loki, and Grafana.
-- 🎥 Managed a SaaS application on AWS with a 99.9% uptime SLA, including incident management with on-call systems like BetterStack and Grafana On-Call.
-- 🔧 Oversaw the MLOps pipeline with Kubeflow on EKS.
-- 📈 Achieved SOC 2 and HIPAA compliance for SaaS applications across multiple cloud platforms.
-- 📦 Building an end-to-end Kubernetes-based DevSecOps software factory on AWS
-- 🏭 AWS-based event-driven autoscaling solution that utilizes Kubernetes' HPA and KEDA to dynamically scale financial reporting jobs based on the number of requests in the queue.
-
-📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [Upwork](https://www.upwork.com/freelancers/~01099391654d0f2fa1)
-- 💬 You can also ask me about:
-
-  [![aws](https://img.shields.io/badge/-aws-orange?logo=amazonaws)](https://aws.amazon.com/)
-  [![docker](https://img.shields.io/badge/-docker-blue?logo=docker)](https://docker.com/)
-  [![terraform](https://img.shields.io/badge/-terraform-blueviolet?logo=terraform)](https://terraform.io/)
-  [![javascript](https://img.shields.io/badge/-javascript-yellow?logo=javascript)](https://www.javascript.com/)
-  [![node.js](https://img.shields.io/badge/-node.js-green?logo=nodedotjs)](https://www.nodejs.org/)
-  [![ansible](https://img.shields.io/badge/-ansible-000000?logo=ansible)](https://www.ansible.com/)
-  [![kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?logo=kubernetes)](https://kubernetes.io/)
-  [![jenkins](https://img.shields.io/badge/-jenkins-D24939?logo=jenkins)](https://www.jenkins.io/)
+- Hybrid mesh network design using [Tailscale](https://tailscale.com/) or [Nebula](https://www.defined.net/)
+- Centralized a modern monitoring stack for multiple Kubernetes clusters using Prometheus, Loki, and Grafana.
+- Managed a SaaS application on AWS with a 99.9% uptime SLA, including incident management with on-call systems like BetterStack and Grafana On-Call.
+- Oversaw the MLOps pipeline with Kubeflow on EKS.
+- Achieved SOC 2 and HIPAA compliance for SaaS applications across multiple cloud platforms.
+- Building an end-to-end Kubernetes-based DevSecOps software factory on AWS
+- AWS-based event-driven autoscaling solution that utilizes Kubernetes' HPA and KEDA to dynamically scale financial reporting jobs based on the number of requests in the queue.
+  
+Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [Upwork](https://www.upwork.com/freelancers/~01099391654d0f2fa1)
 
 ---
 
