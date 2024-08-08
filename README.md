@@ -6,10 +6,10 @@ I currently perform the exact duties for some of my current and past clients her
 
 🎖 I hold several certifications that demonstrate my proficiency in DevOps, cloud computing, and Kubernetes. Check out my credentials:
 
-- <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="16" height="16"/> Certified Kubernetes Administrator ([myup.work/minhlt-cka](https://myup.work/minhlt-cka))
-- <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="16" height="16"/> AWS Certified DevOps Engineer Professional ([myup.work/minhlt-aws-dop](https://myup.work/minhlt-aws-dop))
-- <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="16" height="16"/> AWS Certified Security Specialty ([myup.work/minhlt-aws-scs](https://myup.work/minhlt-aws-scs))
-- <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="16" height="16"/> Certified Kubernetes Application Developer ([myup.work/minhlt-ckad](https://myup.work/minhlt-ckad))
+- <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="16" height="16"/> [Certified Kubernetes Administrator](https://www.credly.com/badges/de52acdb-07c8-497d-984a-a077ad9aeb9f)
+- <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="16" height="16"/> [AWS Certified DevOps Engineer Professional](https://www.credly.com/badges/ea6a28e0-c377-4a1b-876b-4f8373fc5089)
+- <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="16" height="16"/> [AWS Certified Security Specialty](https://www.credly.com/badges/93d39f51-a733-445f-bd8d-4c846605f246)
+- <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="16" height="16"/> [Certified Kubernetes Application Developer](https://www.credly.com/badges/b14e0437-667e-4479-85dd-4089b1c9a7de)
 
 🧰 Throughout my career, I've become familiar and proficient with most modern DevOps tools, including:
 
@@ -29,7 +29,7 @@ I currently perform the exact duties for some of my current and past clients her
 - 📦 Building an end-to-end Kubernetes-based DevSecOps software factory on AWS
 - 🏭 AWS-based event-driven autoscaling solution that utilizes Kubernetes' HPA and KEDA to dynamically scale financial reporting jobs based on the number of requests in the queue.
 
-📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [myup.work/minhlt](https://myup.work/minhlt)
+📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [Upwork](https://www.upwork.com/freelancers/~01099391654d0f2fa1)
 - 💬 You can also ask me about:
 
   [![aws](https://img.shields.io/badge/-aws-orange?logo=amazonaws)](https://aws.amazon.com/)
