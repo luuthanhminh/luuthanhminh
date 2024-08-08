@@ -15,8 +15,8 @@ I currently perform the exact duties for some of my current and past clients her
 
 - ☁️ AWS, Google Cloud, Digital Ocean
 - 🐳 Docker, container orchestration with Kubernetes
-- 🔧 Ansible, Terraform, Jenkins
-- 📈 Elastic Stack, Grafana, Prometheus
+- 🔧 Ansible, Terraform, Github Action, Gitlab Runner
+- 📈 Elastic Stack, Grafana, Prometheus, Loki, Datadog, Vector
 - 🌐 NGINX, Apache, HAProxy, Varnish
 - 🕸️ Node.js, Nest.js, Typescript
 
@@ -29,15 +29,13 @@ I currently perform the exact duties for some of my current and past clients her
 - 🛡️ Equipping operations staff with the necessary processes, tools, and permissions to resolve incidents
 
 🚀 Solutions:
-- 🌐 Multi-site network design using Palo Alto hardware and virtualization software (Proxmox)
-- 🚀 End-to-end on-premises K3S cluster on Proxmox server provisioning with Terraform
-- 🎥 WebRTC/Mediasoup live streaming application on EKS cluster and GKE cluster
-- 🔧 Jenkins master-slave cluster on Kubernetes infrastructure
-- 📈 Elastic stack clusters on Kubernetes infrastructure to monitor Atlassian Jira and Confluence instances
-- 🤖 Ansible Semaphore server to host and run Ansible playbooks deployment
-- 💾 Backup/Restore and disaster recovery solution on Kubernetes cluster with Kasten K10
-- 📦 End-to-end CI/CD with Github action, Vcluster, AWS ECR/EKS, ArgoCD
-- 🏭 AWS-based event-driven autoscaling solution, leveraging K8S' HPA and EKS, to scale Selenium browser nodes based on the number of requests in the session queue
+- 🌐 Hybrid mesh network design using [Tailscale](https://tailscale.com/) or [Nebula](https://www.defined.net/)
+- 🚀 Centralized a modern monitoring stack for multiple Kubernetes clusters using Prometheus, Loki, and Grafana.
+- 🎥 Managed a SaaS application on AWS with a 99.9% uptime SLA, including incident management with on-call systems like BetterStack and Grafana On-Call.
+- 🔧 Oversaw the MLOps pipeline with Kubeflow on EKS.
+- 📈 Achieved SOC 2 and HIPAA compliance for SaaS applications across multiple cloud platforms.
+- 📦 Building an end-to-end Kubernetes-based DevSecOps software factory on AWS
+- 🏭 AWS-based event-driven autoscaling solution that utilizes Kubernetes' HPA and KEDA to dynamically scale financial reporting jobs based on the number of requests in the queue.
 
 📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [myup.work/minhlt](https://myup.work/minhlt)
 - 💬 You can also ask me about:
