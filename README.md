@@ -20,14 +20,6 @@ I currently perform the exact duties for some of my current and past clients her
 - 🌐 NGINX, Apache, HAProxy, Varnish
 - 🕸️ Node.js, Nest.js, Typescript
 
-🚀 Here are some ways I can add value as a DevOps Engineer:
-
-- 🚀 Optimizing test automation, trunk-based development, and working in small batches
-- 📊 Consciously tracking and reporting on change failure rates
-- 🚀 Implementing an automated deployment pipeline that incorporates automated testing and feedback mechanisms
-- 📈 Continuously monitoring system health and alerting operations staff in the event of a failure
-- 🛡️ Equipping operations staff with the necessary processes, tools, and permissions to resolve incidents
-
 🚀 Solutions:
 - 🌐 Hybrid mesh network design using [Tailscale](https://tailscale.com/) or [Nebula](https://www.defined.net/)
 - 🚀 Centralized a modern monitoring stack for multiple Kubernetes clusters using Prometheus, Loki, and Grafana.
