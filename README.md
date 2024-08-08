@@ -39,7 +39,7 @@ I currently perform the exact duties for some of my current and past clients her
 - 📦 End-to-end CI/CD with Github action, Vcluster, AWS ECR/EKS, ArgoCD
 - 🏭 AWS-based event-driven autoscaling solution, leveraging K8S' HPA and EKS, to scale Selenium browser nodes based on the number of requests in the session queue
 
-📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [myup.work/minhlt](myup.work/minhlt)
+📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [myup.work/minhlt](https://myup.work/minhlt)
 - 💬 You can also ask me about:
 
   [![aws](https://img.shields.io/badge/-aws-orange?logo=amazonaws)](https://aws.amazon.com/)
